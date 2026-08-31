@@ -41,4 +41,9 @@ Input Size: 224 × 224
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+The source code in this repository is licensed under the MIT License.
+
+The datasets used in this project are not covered by this license and remain
+subject to their respective licenses and terms of use.
+
+See the `LICENSE` file for the full license text.
