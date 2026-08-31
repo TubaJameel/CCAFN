@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+dataset/
+data/
+*.zip
+
+# Trained models
+checkpoints/
+weights/
+models/*.pth
+models/*.pt
+models/*.ckpt
+*.pth
+*.pt
+*.ckpt
+
+# Outputs
+outputs/
+runs/
+logs/
+
+# VS Code
+.vscode/
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
