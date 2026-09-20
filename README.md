@@ -1,5 +1,8 @@
 CCAFN — COVID-19 CT Classification
 
+<img width="4610" height="1456" alt="Architecture(Final) drawio" src="https://github.com/user-attachments/assets/d541867f-c195-41ed-8457-b413fa6178f5" />
+
+
 A Calibrated Confidence-Aware Fusion Network (CCAFN) for COVID-19 CT image classification using three CNN backbones:
 
 VGG11 — 4096-dimensional features
